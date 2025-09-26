@@ -1,19 +1,29 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "One half pound bag of Cocoa Covered Almonds Unsalted"
-        },
-        {
-            "id": 2,
-            "checked": true,
-            "item": "Item 2"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Item 3"
-        }
-    ]
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "One half pound bag of Cocoa Covered Almonds Unsalted"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "Item 2"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Item 3"
+    },
+    {
+      "id": "311",
+      "checked": false,
+      "item": "coockie"
+    },
+    {
+      "id": "3111",
+      "checked": false,
+      "item": "coffee"
+    }
+  ]
 }
