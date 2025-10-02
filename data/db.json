@@ -7,23 +7,23 @@
     },
     {
       "id": "2",
-      "checked": true,
+      "checked": false,
       "item": "Item 2"
     },
     {
       "id": "3",
-      "checked": false,
+      "checked": true,
       "item": "Item 3"
     },
     {
-      "id": "311",
+      "id": "5",
       "checked": false,
-      "item": "coockie"
+      "item": "item 5"
     },
     {
-      "id": "3111",
+      "id": "6",
       "checked": false,
-      "item": "coffee"
+      "item": "eggs"
     }
   ]
 }
